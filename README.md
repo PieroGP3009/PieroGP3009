@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning AWS
 
-- 📝 I'm co-founder: [[DataServsBo](https://www.dataservsbo.com/)]
+- 📝 I'm co-founder: <a href="https://www.dataservsbo.com/" target="_blank">DataServsBo</a>
 
 - 💬 Ask me about **Reactjs & React-Native**
 
