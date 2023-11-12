@@ -1,4 +1,6 @@
-### Hi, I'm Piero 👋
+<center><h1> Hi, I'm Piero 👋 </h1>
+
+![Board](https://github.com/PieroGP3009/PieroGP3009/assets/135992649/f8369a74-f2a1-4b22-9c6e-0db35935ae5d)
 
 <!--
 **PieroGP3009/PieroGP3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
