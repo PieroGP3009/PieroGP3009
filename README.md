@@ -23,6 +23,8 @@
 
 - 📫 How to reach me
 
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWNhZjdmOTQtNGVjNS00MGI2LWJjNDYtZTcxNTQ0ZmQ3NjlkIiwidCI6IjcxZDFhMmFhLWVkZDktNGY4MS05OGZkLTM5ZmJhNWU5ZTE3NCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe> 
 <!--
 **PieroGP3009/PieroGP3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
