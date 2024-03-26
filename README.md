@@ -3,7 +3,7 @@
 ![Board](https://github.com/PieroGP3009/PieroGP3009/assets/135992649/f8369a74-f2a1-4b22-9c6e-0db35935ae5d)
 <br>
 
-<h3> An Industrial Engineer, passionate Data analyst, and Machine Learning from Bolivia </h3>
+<h3> An Industrial Engineer, passionate Data analyst and Machine Learning from Bolivia </h3>
 <br>
 
 <div align="center">
