@@ -17,8 +17,6 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning AWS, Python and javaScript
-
 - 📝 I'm co-founder: <a href="https://www.dataservsbo.com/" target="_blank">DataServsBo</a>
 
 - 💬 Ask me about **Reactjs & React-Native**
