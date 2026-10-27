@@ -3,7 +3,7 @@
 <!-- ![Board](https://github.com/PieroGP3009/PieroGP3009/assets/135992649/f8369a74-f2a1-4b22-9c6e-0db35935ae5d) --> 
 <br>
 
-<h3> An Industrial Engineer, passionate Data analyst and Machine Learning from Bolivia </h3>
+<h3> An Data Scientist from Bolivia </h3>
 <br>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 
-- 🔭 I’m currently working as a Business Analyst in Ivulic LLC, 100% remote and English.
+- 🔭 I’m currently working as a Data Scientist at EMBOL | The Coca-Cola Company
 
 - 🌱 I worked for multinational companies.
 
@@ -19,25 +19,4 @@
 
 - 📝 I'm co-founder: <a href="https://www.dataservsbo.com/" target="_blank">DataServsBo</a>
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me
-
-
-<br>
-
-</p>
-<!--
-**PieroGP3009/PieroGP3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: pieroguillen3009@gmail.com
